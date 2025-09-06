@@ -4,7 +4,7 @@ A fully responsive e-commerce website with modern UI/UX design, featuring produc
 
 ## Live Demo
 
-➡️ [View Live Demo](https://responsive-ecommerce-website-rho.vercel.app/)  
+➡️ [View Live Demo](https://e-commerce-website1-seven.vercel.app/)  
 
 ## Features
 
